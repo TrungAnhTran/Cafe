@@ -1,0 +1,56 @@
+D:\CDTH21D_DD\LT_Windows\QuanLyCuaHangTraSuaHKT\BUS\bin\Debug\BUS.dll
+D:\CDTH21D_DD\LT_Windows\QuanLyCuaHangTraSuaHKT\BUS\bin\Debug\BUS.pdb
+D:\CDTH21D_DD\LT_Windows\QuanLyCuaHangTraSuaHKT\BUS\bin\Debug\DAO.dll
+D:\CDTH21D_DD\LT_Windows\QuanLyCuaHangTraSuaHKT\BUS\bin\Debug\DTO.dll
+D:\CDTH21D_DD\LT_Windows\QuanLyCuaHangTraSuaHKT\BUS\bin\Debug\DAO.pdb
+D:\CDTH21D_DD\LT_Windows\QuanLyCuaHangTraSuaHKT\BUS\bin\Debug\DTO.pdb
+D:\CDTH21D_DD\LT_Windows\QuanLyCuaHangTraSuaHKT\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\CDTH21D_DD\LT_Windows\QuanLyCuaHangTraSuaHKT\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\CDTH21D_DD\LT_Windows\QuanLyCuaHangTraSuaHKT\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\CDTH21D_DD\LT_Windows\QuanLyCuaHangTraSuaHKT\BUS\obj\Debug\BUS.dll
+D:\CDTH21D_DD\LT_Windows\QuanLyCuaHangTraSuaHKT\BUS\obj\Debug\BUS.pdb
+D:\CDTH21D_DD\LT_Windows\QuanLyCuaHangTraSuaHKT\BUS\bin\Debug\EntityFramework.dll
+D:\CDTH21D_DD\LT_Windows\QuanLyCuaHangTraSuaHKT\BUS\bin\Debug\DAO.dll.config
+D:\CDTH21D_DD\LT_Windows\QuanLyCuaHangTraSuaHKT\BUS\bin\Debug\EntityFramework.xml
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\BUS\bin\Debug\BUS.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\BUS\bin\Debug\BUS.pdb
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\BUS\bin\Debug\DAO.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\BUS\bin\Debug\DTO.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\BUS\bin\Debug\EntityFramework.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\BUS\bin\Debug\DAO.pdb
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\BUS\bin\Debug\DAO.dll.config
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\BUS\bin\Debug\DTO.pdb
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\BUS\bin\Debug\EntityFramework.xml
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\BUS\obj\Debug\BUS.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\BUS\obj\Debug\BUS.pdb
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\BUS\bin\Debug\BUS.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\BUS\bin\Debug\BUS.pdb
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\BUS\bin\Debug\DAO.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\BUS\bin\Debug\DTO.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\BUS\bin\Debug\EntityFramework.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\BUS\bin\Debug\DAO.pdb
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\BUS\bin\Debug\DAO.dll.config
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\BUS\bin\Debug\DTO.pdb
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\BUS\bin\Debug\EntityFramework.xml
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\BUS\obj\Debug\BUS.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\BUS\obj\Debug\BUS.pdb
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\BUS\bin\Debug\BUS.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\BUS\bin\Debug\BUS.pdb
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\BUS\bin\Debug\DAO.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\BUS\bin\Debug\DTO.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\BUS\bin\Debug\EntityFramework.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\BUS\bin\Debug\DAO.pdb
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\BUS\bin\Debug\DAO.dll.config
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\BUS\bin\Debug\DTO.pdb
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\BUS\bin\Debug\EntityFramework.xml
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\BUS\obj\Debug\BUS.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\BUS\obj\Debug\BUS.pdb

@@ -1,0 +1,184 @@
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\CuaHangTraSuaHKT.exe.config
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\CuaHangTraSuaHKT.exe
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\CuaHangTraSuaHKT.pdb
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\BUS.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\DTO.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\EntityFramework.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\Guna.UI2.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\DAO.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\EnvDTE.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\BUS.pdb
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\DTO.pdb
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\EntityFramework.xml
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\DAO.pdb
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\DAO.dll.config
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CUAHANGTRASUA.csproj.AssemblyReference.cache
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CuaHangTraSuaHKT.frmDangNhap.resources
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CuaHangTraSuaHKT.frmDanhMuc.resources
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CuaHangTraSuaHKT.frmHoaDon.resources
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CuaHangTraSuaHKT.frmKhuVuc.resources
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CuaHangTraSuaHKT.frmLoaiTK.resources
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CuaHangTraSuaHKT.frmQuanLyBan.resources
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CuaHangTraSuaHKT.frmQuanLyCuaHang.resources
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CuaHangTraSuaHKT.frmQuanLyNhanVien.resources
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CuaHangTraSuaHKT.frmQuanLySanPham.resources
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CuaHangTraSuaHKT.frmQuanLyTaiKhoan.resources
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CuaHangTraSuaHKT.frmThanhToan.resources
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CuaHangTraSuaHKT.frmThongTinCaNhan.resources
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CuaHangTraSuaHKT.frmTrangChu.resources
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CuaHangTraSuaHKT.frmPhieuThanhToan.resources
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CuaHangTraSuaHKT.frmXemThongKeBaoCao.resources
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CuaHangTraSuaHKT.Properties.Resources.resources
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CuaHangTraSuaHKT.uscBan.resources
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CuaHangTraSuaHKT.uscThongTinMon.resources
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CuaHangTraSuaHKT.frmThongKeBaoCao.resources
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CUAHANGTRASUA.csproj.GenerateResource.cache
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CUAHANGTRASUA.csproj.CoreCompileInputs.cache
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CUAHANGTRASUA.csproj.CopyComplete
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CuaHangTraSuaHKT.exe
+C:\Users\itvip\Downloads\Android\C#\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CuaHangTraSuaHKT.pdb
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\CuaHangTraSuaHKT.exe.config
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\CuaHangTraSuaHKT.exe
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\CuaHangTraSuaHKT.pdb
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\BUS.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\DTO.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\EntityFramework.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\EntityFramework.SqlServer.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\Guna.UI2.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\DAO.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\EnvDTE.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\stdole.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\BUS.pdb
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\DTO.pdb
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\EntityFramework.xml
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\EntityFramework.SqlServer.xml
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\DAO.pdb
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\DAO.dll.config
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CUAHANGTRASUA.csproj.AssemblyReference.cache
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CUAHANGTRASUA.csproj.SuggestedBindingRedirects.cache
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CuaHangTraSuaHKT.Properties.Resources.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CUAHANGTRASUA.csproj.GenerateResource.cache
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CUAHANGTRASUA.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CUAHANGTRASUA.csproj.CopyComplete
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CuaHangTraSuaHKT.exe
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CuaHangTraSuaHKT.pdb
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmDangNhap.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmDanhMuc.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmHoaDon.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmKhuVuc.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmLoaiTK.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmQuanLyBan.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmQuanLyCuaHang.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmQuanLyNhanVien.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmQuanLySanPham.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmQuanLyTaiKhoan.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmThanhToan.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmThongTinCaNhan.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmTrangChu.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmPhieuThanhToan.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmXemThongKeBaoCao.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.uscBan.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.uscThongTinMon.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmThongKeBaoCao.resources

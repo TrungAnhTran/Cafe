@@ -1,0 +1,186 @@
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\CuaHangTraSuaHKT.exe.config
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\CuaHangTraSuaHKT.exe
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\CuaHangTraSuaHKT.pdb
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\BUS.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\DTO.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\EntityFramework.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\EntityFramework.SqlServer.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\Guna.UI2.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\DAO.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\EnvDTE.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\stdole.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\BUS.pdb
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\DTO.pdb
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\EntityFramework.xml
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\EntityFramework.SqlServer.xml
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\DAO.pdb
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\DAO.dll.config
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\ANHCF.csproj.AssemblyReference.cache
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\ANHCF.csproj.SuggestedBindingRedirects.cache
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmDangNhap.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmDanhMuc.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmHoaDon.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmKhuVuc.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmLoaiTK.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmQuanLyBan.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmQuanLyCuaHang.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmQuanLyNhanVien.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmQuanLySanPham.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmQuanLyTaiKhoan.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmThanhToan.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmThongTinCaNhan.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmTrangChu.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmPhieuThanhToan.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmXemThongKeBaoCao.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CuaHangTraSuaHKT.Properties.Resources.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.uscBan.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.uscThongTinMon.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmThongKeBaoCao.resources
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\ANHCF.csproj.GenerateResource.cache
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\ANHCF.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\ANHCF.csproj.CopyComplete
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CuaHangTraSuaHKT.exe
+D:\WORKSPACE\trà sữa hkt\WebsiteQuanLyBanHang-tzjbcc\WebsiteQuanLyBanHang\CuaHangTraSuaHKT\obj\Debug\CuaHangTraSuaHKT.pdb
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\BUS.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\DTO.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\EntityFramework.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\EntityFramework.SqlServer.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\Guna.UI2.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\DAO.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\EnvDTE.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\stdole.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\BUS.pdb
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\DTO.pdb
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\EntityFramework.xml
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\EntityFramework.SqlServer.xml
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\DAO.pdb
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\DAO.dll.config
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\obj\Debug\ANHCF.csproj.AssemblyReference.cache
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\obj\Debug\ANHCF.csproj.SuggestedBindingRedirects.cache
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmDangNhap.resources
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmDanhMuc.resources
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmHoaDon.resources
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmKhuVuc.resources
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmLoaiTK.resources
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmQuanLyBan.resources
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmQuanLyCuaHang.resources
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmQuanLyNhanVien.resources
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmQuanLySanPham.resources
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmQuanLyTaiKhoan.resources
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmThanhToan.resources
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmThongTinCaNhan.resources
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmTrangChu.resources
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmPhieuThanhToan.resources
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmXemThongKeBaoCao.resources
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\obj\Debug\AnhCF.uscBan.resources
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\obj\Debug\AnhCF.uscThongTinMon.resources
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\obj\Debug\AnhCF.frmThongKeBaoCao.resources
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\obj\Debug\ANHCF.csproj.GenerateResource.cache
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\obj\Debug\ANHCF.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\obj\Debug\ANHCF.csproj.CopyComplete
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\ANHCF.exe.config
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\ANHCF.exe
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\bin\Debug\ANHCF.pdb
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\obj\Debug\ANHCF.Properties.Resources.resources
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\obj\Debug\ANHCF.exe
+D:\WORKSPACE\CAFE\CAFEE\CAFEEE\CuaHangTraSuaHKT\obj\Debug\ANHCF.pdb
