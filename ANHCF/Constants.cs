@@ -9,7 +9,6 @@ namespace AnhCF
     internal class Constants
     {
         #region Hằng chuỗi
-        //Chỗ này của hào 
 
         public static string SELECT_SIZE = "Vui lòng chọn size";
 
@@ -207,8 +206,7 @@ namespace AnhCF
         public static string LICK_PASSWORK = "matkhau";
         public static string LICK_ACCOUNT_TYPE = "loaitaikhoan";
 
-        //Chỗ này của trường
-
+ 
         //Nhân Viên
         public static string VAlUEMEMBERNV = "MaNV";
         public static string DISPLAYMEMBERNV = "TenNV";
