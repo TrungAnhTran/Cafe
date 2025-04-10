@@ -11,7 +11,7 @@ namespace Dao
     public class chucvuDAO
     {
         public static chucvuDAO instance;
-        QuanLyCuaHangTraSua_HKTEntities db = new QuanLyCuaHangTraSua_HKTEntities();
+        ANHCF db = new ANHCF();
         public static chucvuDAO Instance
         {
             get

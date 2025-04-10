@@ -30,11 +30,11 @@ namespace Bus
             {
                 return false;
             }
-            if (NhanVienDAO.Instance.kTraNgaySinh(addnv.NGAYSINH))
+            if (NhanVienDAO.Instance.KTraNgaHopLe(addnv.NGAYSINH))
             {
                 return false;
             }
-            if (NhanVienDAO.Instance.kTraNgaySinh(addnv.NGAYVAOLAM))
+            if (NhanVienDAO.Instance.KTraNgaHopLe(addnv.NGAYVAOLAM))
             {
                 return false;
             }
@@ -50,11 +50,11 @@ namespace Bus
             {
                 return false;
             }
-            if (NhanVienDAO.Instance.kTraNgaySinh(editnv.NGAYSINH))
+            if (NhanVienDAO.Instance.KTraNgaHopLe(editnv.NGAYSINH))
             {
                 return false;
             }
-            if (NhanVienDAO.Instance.kTraNgaySinh(editnv.NGAYVAOLAM))
+            if (NhanVienDAO.Instance.KTraNgaHopLe(editnv.NGAYVAOLAM))
             {
                 return false;
             }

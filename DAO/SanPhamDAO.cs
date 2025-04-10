@@ -13,7 +13,7 @@ namespace DAO
 {
     public class SanPhamDAO
     {
-        QuanLyCuaHangTraSua_HKTEntities db = new QuanLyCuaHangTraSua_HKTEntities();
+        ANHCF db = new ANHCF();
         private static SanPhamDAO instance;
         public static SanPhamDAO Instance
         {
@@ -190,7 +190,7 @@ namespace DAO
         }
         public List<SanPhamDTO> TimMaSanPham(string masp)
         {
-            string query = string.Format("SELECT * FROM SanPham WHERE TrangThai=1 AND  MaSP LIKE N'%{0}%'", masp);
+            string query = string.Format("SELECT * FROM SanPham WHERE TrangThai=1 AND MaSP LIKE '%{0}%'", masp);
             var list = db.SanPhams.SqlQuery(query).ToList();
 
             return list.Select(v => new SanPhamDTO
@@ -212,7 +212,7 @@ namespace DAO
         }
         public List<SanPhamDTO> TimDanhMucSanPham(string danhmuc)
         {
-            string query = string.Format("SELECT * FROM SanPham WHERE TrangThai=1 AND MaDanhMuc IN\r\n(SELECT MaDanhMuc FROM DanhMuc WHERE TrangThai=1 AND TenDanhMuc LIKE N'%{0}%')", danhmuc);
+            string query = string.Format("SELECT * FROM SanPham WHERE TrangThai=1 AND MaDanhMuc IN\r\n(SELECT MaDanhMuc FROM DanhMuc WHERE TrangThai=1 AND TenDanhMuc LIKE '%{0}%')", danhmuc);
             var list = db.SanPhams.SqlQuery(query).ToList();
             return list.Select(v => new SanPhamDTO
             {
@@ -233,7 +233,7 @@ namespace DAO
         }
         public List<SanPhamDTO> TimTenSanPham(string tensp)
         {
-            string query = string.Format("SELECT * FROM SanPham WHERE TrangThai=1 AND TenSP LIKE N'%{0}%'", tensp);
+            string query = string.Format("SELECT * FROM SanPham WHERE TrangThai=1 AND TenSP LIKE '%{0}%'", tensp);
             var list = db.SanPhams.SqlQuery(query).ToList();
             return list.Select(v => new SanPhamDTO
             {
@@ -255,7 +255,7 @@ namespace DAO
         }
         public List<SanPhamDTO> TimDonViTinhSanPham(string donvitinh)
         {
-            string query = string.Format("SELECT * FROM SanPham WHERE TrangThai=1 AND DonViTinh LIKE N'%{0}%'", donvitinh);
+            string query = string.Format("SELECT * FROM SanPham WHERE TrangThai=1 AND DonViTinh LIKE '%{0}%'", donvitinh);
             var list = db.SanPhams.SqlQuery(query).ToList();
             return list.Select(v => new SanPhamDTO
             {
@@ -291,20 +291,23 @@ namespace DAO
             }
         }
 
-        public byte[] ConvertImage(string pathimage)
+        public byte[] ConvertImage(string imagePath)
         {
-            FileStream fs;
-            using (MemoryStream memory = new MemoryStream())
+            try
             {
-                using (fs = new FileStream(pathimage, FileMode.Open, FileAccess.Read))
+                using (FileStream fs = new FileStream(imagePath, FileMode.Open, FileAccess.Read))
                 {
-                    byte[] bytes = new byte[fs.Length];
-
-                    fs.Read(bytes, 0, System.Convert.ToInt32(fs.Length));
-                    fs.Close();
-                    return bytes;
+                    using (BinaryReader br = new BinaryReader(fs))
+                    {
+                        return br.ReadBytes((int)fs.Length);
+                    }
                 }
             }
+            catch
+            {
+                return null;
+            }
         }
+
     }
 }

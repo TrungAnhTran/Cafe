@@ -11,7 +11,7 @@ namespace DAO
     public class ChiTietHoaDonDAO
     {
         
-        QuanLyCuaHangTraSua_HKTEntities db = new QuanLyCuaHangTraSua_HKTEntities();
+        ANHCF db = new ANHCF();
         private static ChiTietHoaDonDAO instance;
         public static ChiTietHoaDonDAO Instance
         {
@@ -62,8 +62,8 @@ namespace DAO
                 db.ChiTietHoaDons.Add(cthd);
                 db.SaveChanges();
 
-                //HoaDonDAO.Instance.capNhatTongTien(cthd.MaHD);
-                //db.SaveChanges();
+                HoaDonDAO.Instance.capNhatTongTien(cthd.MaHD);
+                db.SaveChanges();
 
                 return true;
             }
@@ -254,22 +254,27 @@ namespace DAO
 
         public List<ChiTietHoaDonDTO> LayDSCTHD()
         {
-            var list = db.ChiTietHoaDons.Where(p => p.TrangThai == true).ToList();
-            var k = "";
+            var list = db.ChiTietHoaDons
+                .Include(cthd => cthd.HoaDon)
+                .Include(cthd => cthd.SanPham)
+                .Where(p => p.TrangThai == true)
+                .ToList();
+
             return list.Select(v => new ChiTietHoaDonDTO
             {
-                MaHD = v.HoaDon.MaHD,
-                MaSP = v.SanPham.MaSP,
-                SoLuong = (int)v.SoLuong,
-                DonGia = (float)v.DonGia,
-                ThanhTien = (float)v.ThanhTien,
-                GiamGia = (int)v.GiamGia,
-                Size = v.Size,//
-                TenSP = k = db.SanPhams.Find(v.MaSP).TenSP,
-                TrangThai = (bool)v.TrangThai,
-                
+                MaHD = v.HoaDon?.MaHD ?? 0,
+                MaSP = v.SanPham?.MaSP ?? 0,
+                SoLuong = (int?)v.SoLuong ?? 0,
+                DonGia = (float?)v.DonGia ?? 0,
+                ThanhTien = (float?)v.ThanhTien ?? 0,
+                GiamGia = (int?)v.GiamGia ?? 0,
+                Size = v.Size ?? "",
+                TenSP = v.SanPham?.TenSP ?? "Không xác định",
+                TrangThai = (bool?)v.TrangThai ?? false,
             }).ToList();
+
         }
+
 
         public List<ChiTietHoaDonDTO> LayDSCTHDThanhToan()
         {

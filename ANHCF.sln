@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ANHCF", "CuaHangTraSuaHKT\ANHCF.csproj", "{E4ECF9CC-5E81-41E0-A17F-8684ED7318F3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ANHCF", "ANHCF\ANHCF.csproj", "{E4ECF9CC-5E81-41E0-A17F-8684ED7318F3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUS", "BUS\BUS.csproj", "{83716EA3-C19B-4ACB-A261-95CE16F00096}"
 EndProject

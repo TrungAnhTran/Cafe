@@ -69,17 +69,6 @@ namespace BUS
             return HoaDonDAO.Instance.XoaHoaDonKhiChuyenban(mahd);
         }
 
-
-        public float ThongKeDoanhThu(DateTime tungay, DateTime denngay)
-        {
-            return HoaDonDAO.Instance.ThongKeDoanhThu(tungay, denngay);
-        }
-
-        public List<HoaDonDTO> DSHoaDonTheoDoanhThuTuNgayDenNgay(DateTime tungay, DateTime denngay)
-        {
-            return HoaDonDAO.Instance.DSHoaDonTheoDoanhThuTuNgayDenNgay(tungay,denngay);
-        }
-
         public List<HoaDonDTO> DSHoaDonTheoDoanhThuTheoThang(int thang, int nam)
         {
             return HoaDonDAO.Instance.DSHoaDonTheoDoanhThuTheoThang(thang,nam);

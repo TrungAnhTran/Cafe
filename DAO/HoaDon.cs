@@ -6,12 +6,14 @@
 //     Manual changes to this file will be overwritten if the code is regenerated.
 // </auto-generated>
 //------------------------------------------------------------------------------
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DAO
 {
     using System;
     using System.Collections.Generic;
-    
+    [Table("hoadon")]
     public partial class HoaDon
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
@@ -19,7 +21,8 @@ namespace DAO
         {
             this.ChiTietHoaDons = new HashSet<ChiTietHoaDon>();
         }
-    
+        [Key]
+
         public int MaHD { get; set; }
         public Nullable<System.DateTime> NgayLapHD { get; set; }
         public int MaNV { get; set; }
@@ -27,7 +30,7 @@ namespace DAO
         public Nullable<bool> TrangThai { get; set; }
         public Nullable<int> MaBan { get; set; }
         public string GhiChu { get; set; }
-    
+
         public virtual Ban Ban { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<ChiTietHoaDon> ChiTietHoaDons { get; set; }

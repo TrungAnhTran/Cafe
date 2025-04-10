@@ -6,12 +6,15 @@
 //     Manual changes to this file will be overwritten if the code is regenerated.
 // </auto-generated>
 //------------------------------------------------------------------------------
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DAO
 {
     using System;
     using System.Collections.Generic;
-    
+    [Table("loaitk")]
+
     public partial class LoaiTK
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
@@ -19,7 +22,7 @@ namespace DAO
         {
             this.TaiKhoans = new HashSet<TaiKhoan>();
         }
-    
+        [Key]
         public int IDLoaiTK { get; set; }
         public string TenLoaiTK { get; set; }
         public Nullable<bool> TrangThai { get; set; }

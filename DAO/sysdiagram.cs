@@ -6,6 +6,7 @@
 //     Manual changes to this file will be overwritten if the code is regenerated.
 // </auto-generated>
 //------------------------------------------------------------------------------
+using System.ComponentModel.DataAnnotations;
 
 namespace DAO
 {
@@ -16,6 +17,7 @@ namespace DAO
     {
         public string name { get; set; }
         public int principal_id { get; set; }
+        [Key]
         public int diagram_id { get; set; }
         public Nullable<int> version { get; set; }
         public byte[] definition { get; set; }

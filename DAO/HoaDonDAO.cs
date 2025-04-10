@@ -8,7 +8,7 @@ namespace DAO
 {
     public class HoaDonDAO
     {
-        QuanLyCuaHangTraSua_HKTEntities db =new QuanLyCuaHangTraSua_HKTEntities();
+        ANHCF db =new ANHCF();
         private static HoaDonDAO instance;
         public static HoaDonDAO Instance
         {
@@ -29,8 +29,8 @@ namespace DAO
             string tenvn = "";
             return list.Select(p => new HoaDonDTO
             {
-                MaHD= p.MaHD,
-                MaBan= (int)p.MaBan,
+                MaHD = p.MaHD,
+                MaBan = (int)p.MaBan,
                 MaNV = p.MaNV,
                 TongTien = (float)p.TongTien,
                 ngayLapLapHD = (DateTime)p.NgayLapHD,
@@ -40,6 +40,7 @@ namespace DAO
                 TenNV = tenvn = db.NhanViens.Find(p.MaNV).TenNV
 
             }).ToList();
+
         }
 
         public HoaDonDTO LayDSHoaDonTheoBan(int maban, int mahd)//thanh toan
@@ -51,10 +52,10 @@ namespace DAO
                 MaBan = hd.MaHD,
                 TenBan = tenb = db.Bans.Find(maban).TenBan,
                 MaNV = hd.MaNV,
-                MaHD= hd.MaHD,
-                ngayLapLapHD= (DateTime)hd.NgayLapHD,
-                TongTien= (float)hd.TongTien,
-                TrangThai= (bool)hd.TrangThai
+                MaHD = hd.MaHD,
+                ngayLapLapHD = (DateTime)hd.NgayLapHD,
+                TongTien = (float)hd.TongTien,
+                TrangThai = (bool)hd.TrangThai
             };
             return hdn;
         }
@@ -345,25 +346,7 @@ namespace DAO
                 GhiChu = p.GhiChu,
             }).ToList();
         }
-      /*  public List<HoaDonDTO> timtheotennv(string ten)
-        {
-            string query=string.Format("SELECT*FROM HoaDon WHERE TrangThai=0 AND MaHD IN (SELECT MaHD FROM HoaDon WHERE MaNV Like N'%{0}%')", ten);
-            var list=db.HoaDons.SqlQuery(query).ToList();
-            var ban = "";
-            var tenvn = "";
-            return list.Select(p => new HoaDonDTO
-            {
-                MaHD = p.MaHD,
-                MaBan = (int)p.MaBan,
-                MaNV = p.MaNV,
-                TongTien = (float)p.TongTien,
-                ngayLapLapHD = (DateTime)p.NgayLapHD,
-                TrangThai = (bool)p.TrangThai,
-                GhiChu = p.GhiChu,
-                TenBan = ban = db.Bans.Find(p.MaBan).TenBan,
-                TenNV = tenvn = db.NhanViens.Find(p.MaNV).TenNV
-            }).ToList();
-        }*/
+
 
     }
 }

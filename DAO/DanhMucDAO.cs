@@ -11,7 +11,7 @@ namespace DAO
     {
 
 
-        QuanLyCuaHangTraSua_HKTEntities trasua = new QuanLyCuaHangTraSua_HKTEntities();
+        ANHCF trasua = new ANHCF();
         private static DanhMucDAO instance;
         public static DanhMucDAO Istance
         {

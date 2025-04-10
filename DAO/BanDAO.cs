@@ -9,7 +9,7 @@ namespace DAO
 {
     public class BanDAO
     {
-        QuanLyCuaHangTraSua_HKTEntities db = new QuanLyCuaHangTraSua_HKTEntities();
+        ANHCF db = new ANHCF();
         private static BanDAO instance;
 
         public static BanDAO Instance
@@ -44,12 +44,12 @@ namespace DAO
             return list.Select(p => new BanDTO
             {
                 MaBan = p.MaBan,
-                TenBan = p.TenBan,
-                MaKhuVuc = (int)p.MaKhuVuc,
-                TrangThai = (bool)p.TrangThai
+                TenBan = p.TenBan ?? "Không có tên",  // Nếu null, gán giá trị mặc định
+                MaKhuVuc = p.MaKhuVuc ?? 0,  // Nếu null, gán 0
+                TrangThai = p.TrangThai ?? false // Nếu null, gán false
             }).ToList();
-
         }
+
 
         public List<BanDTO> LoadDSBan()
         {
@@ -57,12 +57,13 @@ namespace DAO
 
             return list.Select(p => new BanDTO
             {
-                MaBan= p.MaBan,
-                TenBan= p.TenBan,
-                MaKhuVuc= (int)p.MaKhuVuc,
-                TrangThai= (bool)p.TrangThai
+                MaBan = p.MaBan,
+                TenBan = p.TenBan ?? "Chưa có tên", // Nếu null, gán chuỗi mặc định
+                MaKhuVuc = p.MaKhuVuc.HasValue ? p.MaKhuVuc.Value : 0, // Kiểm tra null trước khi gán
+                TrangThai = p.TrangThai.HasValue ? p.TrangThai.Value : false // Kiểm tra null trước khi gán
             }).ToList();
         }
+
         public bool ThemBan(BanDTO nBan)
         {
             try
@@ -70,8 +71,8 @@ namespace DAO
                 Ban ban = new Ban
                 {
                     TenBan = nBan.TenBan,
-                    MaKhuVuc= nBan.MaKhuVuc,
-                    TrangThai= nBan.TrangThai
+                    MaKhuVuc = nBan.MaKhuVuc,
+                    TrangThai = nBan.TrangThai
                 };
                 db.Bans.Add(ban);
                 db.SaveChanges();
@@ -103,13 +104,13 @@ namespace DAO
             {
                 var mabanMax = db.Bans.Max(p => p.MaBan);
 
-                if(mabanMax == 0)
+                if (mabanMax == 0)
                 {
                     return -1;
-                }    
+                }
                 return mabanMax;
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 return -1;
             }
@@ -119,8 +120,8 @@ namespace DAO
         {
             try
             {
-                Ban list = db.Bans.SingleOrDefault(p => p.MaBan== nBan.MaBan);
-                if(list == null)
+                Ban list = db.Bans.SingleOrDefault(p => p.MaBan == nBan.MaBan);
+                if (list == null)
                     return false;
                 list.TenBan = nBan.TenBan;
                 list.MaKhuVuc = nBan.MaKhuVuc;
@@ -128,11 +129,29 @@ namespace DAO
                 db.SaveChanges();
                 return true;
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 return false;
             }
         }
+        public bool XoaBan(BanDTO nBan)
+        {
+            try
+            {
+                Ban ban = db.Bans.SingleOrDefault(p => p.MaBan == nBan.MaBan);
+                if (ban == null)
+                    return false;
+
+                db.Bans.Remove(ban);
+                db.SaveChanges();
+                return true;
+            }
+            catch (Exception ex)
+            {
+                return false;
+            }
+        }
+
 
         public bool CapNhatBanCoNguoiOrKhongCoNguoi(int maban, bool check)
         {
@@ -152,7 +171,7 @@ namespace DAO
         public bool KiemTraTenTonTai(string tenban)
         {
             var list = db.Bans.SingleOrDefault(p => p.TenBan == tenban && p.TrangThai == false);
-            if(list == null) return false;
+            if (list == null) return false;
             return true;
         }
 
@@ -160,12 +179,12 @@ namespace DAO
         {
             try
             {
-                Ban ban = db.Bans.SingleOrDefault(p => p.MaBan== maban);
-                if(ban == null) return false;
+                Ban ban = db.Bans.SingleOrDefault(p => p.MaBan == maban);
+                if (ban == null) return false;
                 ban.TrangThai = true;
                 db.SaveChanges(); return true;
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 return false;
             }

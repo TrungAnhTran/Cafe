@@ -6,12 +6,15 @@
 //     Manual changes to this file will be overwritten if the code is regenerated.
 // </auto-generated>
 //------------------------------------------------------------------------------
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DAO
 {
     using System;
     using System.Collections.Generic;
     
+    [Table("ban")]
     public partial class Ban
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
@@ -19,7 +22,8 @@ namespace DAO
         {
             this.HoaDons = new HashSet<HoaDon>();
         }
-    
+
+        [Key]    
         public int MaBan { get; set; }
         public string TenBan { get; set; }
         public Nullable<int> MaKhuVuc { get; set; }

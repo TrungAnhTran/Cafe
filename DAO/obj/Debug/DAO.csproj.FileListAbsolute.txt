@@ -54,3 +54,333 @@ D:\WORKSPACE\CAFE\CAFEE\CAFEEE\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
 D:\WORKSPACE\CAFE\CAFEE\CAFEEE\DAO\obj\Debug\DAO.csproj.CopyComplete
 D:\WORKSPACE\CAFE\CAFEE\CAFEEE\DAO\obj\Debug\DAO.dll
 D:\WORKSPACE\CAFE\CAFEE\CAFEEE\DAO\obj\Debug\DAO.pdb
+D:\WORKSPACE\đồ án\CAFEEE\DAO\bin\Debug\DAO.dll.config
+D:\WORKSPACE\đồ án\CAFEEE\DAO\bin\Debug\DAO.dll
+D:\WORKSPACE\đồ án\CAFEEE\DAO\bin\Debug\DAO.pdb
+D:\WORKSPACE\đồ án\CAFEEE\DAO\bin\Debug\DTO.dll
+D:\WORKSPACE\đồ án\CAFEEE\DAO\bin\Debug\EntityFramework.dll
+D:\WORKSPACE\đồ án\CAFEEE\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\WORKSPACE\đồ án\CAFEEE\DAO\bin\Debug\DTO.pdb
+D:\WORKSPACE\đồ án\CAFEEE\DAO\bin\Debug\EntityFramework.xml
+D:\WORKSPACE\đồ án\CAFEEE\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\WORKSPACE\đồ án\CAFEEE\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\WORKSPACE\đồ án\CAFEEE\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\đồ án\CAFEEE\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\WORKSPACE\đồ án\CAFEEE\DAO\obj\Debug\DAO.dll
+D:\WORKSPACE\đồ án\CAFEEE\DAO\obj\Debug\DAO.pdb
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\DAO.dll.config
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\DAO.dll
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\DAO.pdb
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\DTO.dll
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\EntityFramework.dll
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\DTO.pdb
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\EntityFramework.xml
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\WORKSPACE\đồ án\CAFE\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\WORKSPACE\đồ án\CAFE\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\đồ án\CAFE\DAO\obj\Debug\DAO.csproj.Up2Date
+D:\WORKSPACE\đồ án\CAFE\DAO\obj\Debug\DAO.dll
+D:\WORKSPACE\đồ án\CAFE\DAO\obj\Debug\DAO.pdb
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\MySql.Data.dll
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\mysql.data.entity.EF6.dll
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\DTO.dll.config
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\BouncyCastle.Cryptography.dll
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\Google.Protobuf.dll
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\K4os.Compression.LZ4.dll
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\K4os.Hash.xxHash.dll
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\MySqlConnector.dll
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\System.Buffers.dll
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\System.IO.Pipelines.dll
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\System.Memory.dll
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\System.Numerics.Vectors.dll
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\ZstdSharp.dll
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\BouncyCastle.Cryptography.xml
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\Google.Protobuf.pdb
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\Google.Protobuf.xml
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\K4os.Compression.LZ4.xml
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\K4os.Hash.xxHash.xml
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\MySql.Data.xml
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\MySqlConnector.xml
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\System.Buffers.xml
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\System.IO.Pipelines.xml
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\System.Memory.xml
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\System.Numerics.Vectors.xml
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\WORKSPACE\đồ án\CAFE\DAO\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\DAO.dll.config
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\DAO.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\DAO.pdb
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\DTO.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\EntityFramework.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Google.Protobuf.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\MySql.Data.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\mysql.data.entity.EF6.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\MySqlConnector.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Buffers.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.IO.Pipelines.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Memory.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\ZstdSharp.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\DTO.pdb
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\DTO.dll.config
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\EntityFramework.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Google.Protobuf.pdb
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Google.Protobuf.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\MySql.Data.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\MySqlConnector.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Buffers.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.IO.Pipelines.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Memory.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\obj\Debug\DAO.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\obj\Debug\DAO.pdb
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Collections.Immutable.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+C:\Users\WELCOME\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Collections.Immutable.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\DAO.dll.config
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\DAO.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\DAO.pdb
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\DTO.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\EntityFramework.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Google.Protobuf.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\MySql.Data.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\mysql.data.entity.EF6.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\MySqlConnector.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Buffers.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Collections.Immutable.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.IO.Pipelines.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Memory.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\ZstdSharp.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\DTO.pdb
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\DTO.dll.config
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\EntityFramework.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Google.Protobuf.pdb
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Google.Protobuf.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\MySql.Data.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\MySqlConnector.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Buffers.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Collections.Immutable.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.IO.Pipelines.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Memory.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\obj\Debug\DAO.csproj.Up2Date
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\obj\Debug\DAO.dll
+C:\Users\datcn\Documents\Zalo Received Files\Quán CAFE\Quán CAFE\DAO\obj\Debug\DAO.pdb
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\DAO.dll.config
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\DAO.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\DAO.pdb
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\BouncyCastle.Cryptography.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\DTO.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\EntityFramework.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Google.Protobuf.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Guna.UI2.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\K4os.Compression.LZ4.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\K4os.Hash.xxHash.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.Extensions.Options.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\MySql.Data.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\mysql.data.entity.EF6.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\MySql.Data.EntityFramework.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\MySqlConnector.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\System.Buffers.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\System.Collections.Immutable.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\System.ComponentModel.Annotations.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\System.IO.Pipelines.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\System.Memory.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\System.Numerics.Vectors.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\ZstdSharp.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\DTO.pdb
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\DTO.dll.config
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\BouncyCastle.Cryptography.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\EntityFramework.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Google.Protobuf.pdb
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Google.Protobuf.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\K4os.Compression.LZ4.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\K4os.Hash.xxHash.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.Extensions.Options.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\MySql.Data.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\MySql.Data.EntityFramework.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\MySqlConnector.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\System.Buffers.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\System.Collections.Immutable.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\System.IO.Pipelines.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\System.Memory.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\System.Numerics.Vectors.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\obj\Debug\DAO.csproj.Up2Date
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\obj\Debug\DAO.dll
+D:\WORKSPACE\c#\Quán CAFE - Copy\DAO\obj\Debug\DAO.pdb

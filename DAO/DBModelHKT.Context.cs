@@ -6,23 +6,25 @@
 //     Manual changes to this file will be overwritten if the code is regenerated.
 // </auto-generated>
 //------------------------------------------------------------------------------
-
+using System.Data.Entity;
+using System.Data.Entity.ModelConfiguration.Conventions;
+using MySql.Data.EntityFramework;
 namespace DAO
 {
     using System;
-    using System.Data.Entity;
-    using System.Data.Entity.Infrastructure;
-    
-    public partial class QuanLyCuaHangTraSua_HKTEntities : DbContext
+    using MySql.Data.Entity;
+
+    [DbConfigurationType(typeof(MySqlEFConfiguration))]
+    public partial class ANHCF : DbContext
     {
-        public QuanLyCuaHangTraSua_HKTEntities()
-            : base("name=QuanLyCuaHangTraSua_HKTEntities")
+        public ANHCF()
+            : base("name=ANHCF")
         {
         }
     
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-            throw new UnintentionalCodeFirstException();
+            //throw new UnintentionalCodeFirstException();
         }
     
         public virtual DbSet<Ban> Bans { get; set; }

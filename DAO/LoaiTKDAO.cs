@@ -8,7 +8,7 @@ namespace DAO
 {
     public class LoaiTKDAO
     {
-        QuanLyCuaHangTraSua_HKTEntities trasua=new QuanLyCuaHangTraSua_HKTEntities();
+        ANHCF caffe=new ANHCF();
         private static LoaiTKDAO instance;
         public static LoaiTKDAO Instance
         {
@@ -21,7 +21,7 @@ namespace DAO
         }
         public List<LoaiTKDTO> LayDSLoaiTK()
         {
-            var list=trasua.LoaiTKs.Where(p=>p.TrangThai.Value==true).ToList();
+            var list=caffe.LoaiTKs.Where(p=>p.TrangThai.Value==true).ToList();
             return list.Select(P=> new LoaiTKDTO
             {
                 idloaitk=P.IDLoaiTK,
@@ -38,8 +38,8 @@ namespace DAO
                     TenLoaiTK = ltk.tenloaitk,
                     TrangThai = ltk.trangthai
                 };
-                trasua.LoaiTKs.Add(them);
-                trasua.SaveChanges();
+                caffe.LoaiTKs.Add(them);
+                caffe.SaveChanges();
                 return true;
             }
             catch(Exception e)
@@ -52,11 +52,11 @@ namespace DAO
         {
             try
             {
-                LoaiTK sua = trasua.LoaiTKs.SingleOrDefault(p => p.IDLoaiTK == ltk.idloaitk);
+                LoaiTK sua = caffe.LoaiTKs.SingleOrDefault(p => p.IDLoaiTK == ltk.idloaitk);
                
                  sua.TenLoaiTK = ltk.tenloaitk;
                 
-                if (trasua.SaveChanges() == 0) return false;
+                if (caffe.SaveChanges() == 0) return false;
                 return true;
             }
             catch (Exception e)
@@ -68,11 +68,11 @@ namespace DAO
         {
             try
             {
-                LoaiTK xoa = trasua.LoaiTKs.SingleOrDefault(p => p.IDLoaiTK == ltk.idloaitk);
+                LoaiTK xoa = caffe.LoaiTKs.SingleOrDefault(p => p.IDLoaiTK == ltk.idloaitk);
                 
                 xoa.TrangThai = false;
                 
-                if (trasua.SaveChanges() == 0) return false;
+                if (caffe.SaveChanges() == 0) return false;
                 return true;
             }
             catch (Exception e)
@@ -82,7 +82,7 @@ namespace DAO
         }
         public bool KiemTraTonTai(int id)
         {
-            var kt = trasua.LoaiTKs.Join(trasua.TaiKhoans, c => c.IDLoaiTK, ct => ct.MaLoaiTK, (c, ct)
+            var kt = caffe.LoaiTKs.Join(caffe.TaiKhoans, c => c.IDLoaiTK, ct => ct.MaLoaiTK, (c, ct)
                 => new { Loaitk = c, Taikhoan = ct }).Where(data => data.Loaitk.TrangThai.Value == true && data.Loaitk.IDLoaiTK == id)
                 .Select(data => data.Loaitk).ToList();
             if(kt.Count>0)
@@ -94,7 +94,7 @@ namespace DAO
 
         public bool KiemTraTonTaiDataView(string tenltk)
         {
-            var kt = trasua.LoaiTKs.Where(p => p.TenLoaiTK.Contains(tenltk) && p.TrangThai == true).ToList();
+            var kt = caffe.LoaiTKs.Where(p => p.TenLoaiTK.Contains(tenltk) && p.TrangThai == true).ToList();
             //Contains thay thế cho %
             if (kt.Count > 0)
             {

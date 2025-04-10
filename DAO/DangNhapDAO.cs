@@ -9,7 +9,7 @@ namespace DAO
 {
     public class DangNhapDAO
     {
-        QuanLyCuaHangTraSua_HKTEntities db = new QuanLyCuaHangTraSua_HKTEntities();
+        ANHCF db = new ANHCF();
         private static DangNhapDAO instance;
         public static DangNhapDAO Instance
         {

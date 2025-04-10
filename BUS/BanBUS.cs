@@ -40,17 +40,23 @@ namespace BUS
 
         public bool ThemBan(BanDTO nBan)
         {
-            if(BanDAO.Instance.KiemTraTenTonTai(nBan.TenBan))
+            if (BanDAO.Instance.KiemTraTenTonTai(nBan.TenBan))
             {
                 return false;
-            }    
+            }
             return BanDAO.Instance.ThemBan(nBan);
         }
 
         public bool SuaBan(BanDTO nBan)
         {
-           return BanDAO.Instance.SuaBan(nBan);
+            return BanDAO.Instance.SuaBan(nBan);
         }
+
+        public bool XoaBan(BanDTO nBan)
+        {
+            return BanDAO.Instance.XoaBan(nBan);
+        }
+
 
         public bool CapNhatBanCoNguoi(int maban)
         {
@@ -58,7 +64,7 @@ namespace BUS
         }
         public bool CapNhatBanCoNguoiOrKhongCoNguoi(int maban, bool check)
         {
-            return BanDAO.Instance.CapNhatBanCoNguoiOrKhongCoNguoi(maban,check);
+            return BanDAO.Instance.CapNhatBanCoNguoiOrKhongCoNguoi(maban, check);
         }
 
         public bool KiemTraTenTonTai(string tenban)

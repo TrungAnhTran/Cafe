@@ -8,7 +8,7 @@ namespace DAO
 {
     public class KhuVucDAO
     {
-        QuanLyCuaHangTraSua_HKTEntities db = new QuanLyCuaHangTraSua_HKTEntities();
+        ANHCF db = new ANHCF();
         private static KhuVucDAO instance;
         public static KhuVucDAO Instance
         {
